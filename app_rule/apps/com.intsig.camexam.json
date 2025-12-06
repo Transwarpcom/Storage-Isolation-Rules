@@ -1,0 +1,21 @@
+{
+  "device_info": {
+    "manufacturer": "Google",
+    "locale": "zh-Hans-SG",
+    "api": 36
+  },
+  "verified": true,
+  "last_update": {
+    "flags": "read_storage, write_storage",
+    "target_api": 34,
+    "version_code": 100419000,
+    "version_name": "4.19.0.20251121",
+    "timestamp": 1765008541
+  },
+  "behaviors": [
+    "@standard"
+  ],
+  "non_standard_files": [],
+  "recommendation": "@unnecessary",
+  "package": "com.intsig.camexam"
+}
