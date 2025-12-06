@@ -1,4 +1,5 @@
 {
+  "package": "com.autonavi.minimap",
   "authors": [
     "coderfox",
     "IJustWantANamePlease"
@@ -7,6 +8,21 @@
   "behaviors": [
     "@abuse"
   ],
+  "recommendation": "@recommended",
+  "non_standard_files": [
+    ".7934039a",
+    ".UTSystemConfig",
+    ".gs_fs0",
+    "alipay",
+    "autonavi"
+  ],
+  "last_update": {
+    "target_api": 31,
+    "flags": "read_storage, write_storage",
+    "timestamp": 1658670875,
+    "version_code": 111800,
+    "version_name": "11.18.1.2936"
+  },
   "export_folders": {
     "data": {
       "saved_pictures_0": {
@@ -17,22 +33,6 @@
         "add_to_downloads": false,
         "allow_child": false
       }
-    },
-    "recommendation": "@recommended",
-    "non_standard_files": [
-      ".7934039a",
-      ".UTSystemConfig",
-      ".gs_fs0",
-      "alipay",
-      "autonavi"
-    ],
-    "package": "com.autonavi.minimap",
-    "last_update": {
-      "target_api": 31,
-      "flags": "read_storage, write_storage",
-      "timestamp": 1658670875,
-      "version_code": 111800,
-      "version_name": "11.18.1.2936"
     }
   }
 }
