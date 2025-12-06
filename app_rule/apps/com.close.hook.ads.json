@@ -1,0 +1,21 @@
+{
+  "device_info": {
+    "manufacturer": "Google",
+    "locale": "zh-Hans-SG",
+    "api": 36
+  },
+  "verified": true,
+  "last_update": {
+    "flags": "read_storage, write_storage",
+    "target_api": 34,
+    "version_code": 20250818,
+    "version_name": "3.9.7",
+    "timestamp": 1765009558
+  },
+  "behaviors": [
+    "@standard"
+  ],
+  "non_standard_files": [],
+  "recommendation": "@unnecessary",
+  "package": "com.close.hook.ads"
+}
